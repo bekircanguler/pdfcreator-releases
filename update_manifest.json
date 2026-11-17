@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.11",
+  "latest_version": "1.0.12",
   "min_supported_version": "1.0.0",
   "disabled": false,
   "message": "",
@@ -7,6 +7,6 @@
   "modules_message": "",
   "lease_days": 7,
   "download_url": "https://github.com/bekircanguler/pdfcreator-releases/releases/latest",
-  "exe_url": "https://github.com/bekircanguler/pdfcreator/releases/download/v1.0.11/Bilgi.Notu.exe",
-  "sha256": "848fbf3f6ac51f5ef7471f43142ac711f78fe0e3fcc857522569f3480095f83b"
+  "exe_url": "https://github.com/bekircanguler/pdfcreator-releases/releases/download/v1.0.12/Bilgi.Notu.exe",
+  "sha256": "edef0fcf095c3ca50cb7652ae747d41ad64adece9c1d10ec1eb874be162c6937"
 }
